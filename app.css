@@ -25,36 +25,26 @@ p {
 
 .topbar {
     background-color: #4B8C4B;
+    color: white;
     opacity: 0.65;
     position: fixed;
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
     margin: 0 auto;
-}
-
-.topbar_wrapper {
-    width: 1450px;
-    margin: none;
     padding: none;
+    height: 100px;
+    width: 1450px;
     text-align: center;
-    color: white;
-    background-color: #4B8C4B;
-    opacity: 0.65;
 }
 
 .footer {
     background-color: #4B8C4B;
+    color: white;
     opacity: 0.65;
-    position: fixed;
+    position: absolute;
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-    margin: 0 auto;	
-}
-
-.footer_wrapper {
-    width: 1450px;
+    margin: 0 auto;
+    width: 100%;
     margin: none;
     padding: none;
     text-align: center;
-    color: white;
-    background-color: #4B8C4B;
-    opacity: 0.65;
 }
