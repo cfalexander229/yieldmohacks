@@ -29,7 +29,6 @@ p {
     position: fixed;
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
     margin: 0 auto;
-    opacity: 0.7;
 }
 
 .topbar_wrapper {
@@ -39,7 +38,7 @@ p {
     text-align: center;
     color: white;
     background-color: #4B8C4B;
-    opacity: 0.7;
+    opacity: 0.65;
 }
 
 .footer {
@@ -50,3 +49,12 @@ p {
     margin: 0 auto;	
 }
 
+.footer_wrapper {
+    width: 1450px;
+    margin: none;
+    padding: none;
+    text-align: center;
+    color: white;
+    background-color: #4B8C4B;
+    opacity: 0.65;
+}
